@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathyanarayana</h1>
 <h3 align="center">A passionate CSE Student from India</h3>
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/man-working-desk-with-laptop-productive-work-flat-design-generative-ai_176697-2787.jpg?w=2000">
-
 - 👯 I’m looking to collaborate on **data streaming pipeline**
 
 - 📫 How to reach me **sathyark652@gmail.com**
